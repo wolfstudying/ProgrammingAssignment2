@@ -1,4 +1,5 @@
 # README.md for code test result
+
 makeCacheMatrix <- function(x=numeric()){
  cache <- NULL
  setMatrix <- function(y){
