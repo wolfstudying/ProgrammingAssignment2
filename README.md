@@ -26,4 +26,4 @@
 ####[1,] -1.2222222  1.1111111
 ####[2,]  0.2222222 -0.1111111
 
-### the test display when the second time we run the function,the result is change and we found the cached value.
+### the test display when the second time we run the function, we get the cached value.
